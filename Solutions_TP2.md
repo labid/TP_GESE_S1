@@ -1,6 +1,6 @@
 # Solutions TP2
 
-## EX1_TP2 (avec S.A.S.R)
+## EX1_TP2 (avec S.A.Simpe)
 ```c
 // corrigé EX1_TP2 avec S.A.S.R 
 #include<stdio.h> 
